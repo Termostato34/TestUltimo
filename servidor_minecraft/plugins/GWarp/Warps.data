@@ -1,0 +1,110 @@
+Warps:
+  avion:
+    name: avion
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: 311.78516078885605
+      y: 190.0
+      z: -86.56802156004413
+      pitch: 2.4061694
+      yaw: -89.789696
+      world: world
+    sound: ENTITY_ENDER_PEARL_THROW
+  villa:
+    name: villa
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: 16.69999998807907
+      y: 123.9375
+      z: -4.409248658279189
+      pitch: 22.189638
+      yaw: 45.46985
+      world: world
+  nieve:
+    name: nieve
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: 31.47715776529297
+      y: 93.9375
+      z: 268.2252722466956
+      pitch: 11.755307
+      yaw: -84.082886
+      world: world
+  jungla:
+    name: jungla
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: 323.85317078663115
+      y: 114.0
+      z: 275.8770833462477
+      pitch: 3.2408931
+      yaw: -60.20923
+      world: world
+  nether:
+    name: nether
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: -113.88650882338212
+      y: 116.0
+      z: 403.5731533310958
+      pitch: 19.282608
+      yaw: -13.916962
+      world: world
+  cielo:
+    name: cielo
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: -362.34483268889863
+      y: 146.0
+      z: 370.32097947596867
+      pitch: 2.6854725
+      yaw: -88.626434
+      world: world
+  brujas:
+    name: brujas
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: -549.9218947489352
+      y: 153.0
+      z: 210.35088624150444
+      pitch: 15.373612
+      yaw: 86.477295
+      world: world
+  casa:
+    name: casa
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: -93.79522486290122
+      y: 110.0
+      z: 144.7092171909825
+      pitch: 5.0772753
+      yaw: 175.24666
+      world: world
+  desierto:
+    name: desierto
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: -249.6884160721125
+      y: 130.0625
+      z: -23.004511318255233
+      pitch: 18.18283
+      yaw: 147.94992
+      world: world

@@ -1,66 +1,85 @@
-[21:53:13] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
-[21:53:13] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) for Minecraft 1.21.1
-[21:53:13] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:53:13] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[21:53:14] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
-[21:53:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:53:20] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
-[21:53:20] [ServerMain/INFO]: Found new data pack paper, loading it automatically
-[21:53:21] [ServerMain/INFO]: No existing world data, creating new world
-[21:53:22] [ServerMain/INFO]: Loaded 1290 recipes
-[21:53:22] [ServerMain/INFO]: Loaded 1399 advancements
-[21:53:23] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 8675ms.
-[21:53:23] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[21:53:23] [Server thread/INFO]: Loading properties
-[21:53:23] [Server thread/INFO]: This server is running Paper version 1.21.1-57-master@b483da4 (2024-09-01T18:09:05Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[21:53:24] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:53:24] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:53:24] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:53:24] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[21:53:25] [Server thread/INFO]: Default game type: SURVIVAL
-[21:53:25] [Server thread/INFO]: Generating keypair
-[21:53:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:53:25] [Server thread/INFO]: Using epoll channel type
-[21:53:25] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:53:25] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[21:53:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:53:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:53:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:53:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:53:25] [Server thread/INFO]: Preparing level "world"
-[21:53:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:53:42] [Server thread/INFO]: Time elapsed: 5592 ms
-[21:53:42] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:53:45] [Server thread/INFO]: Time elapsed: 2772 ms
-[21:53:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:53:46] [Server thread/INFO]: Time elapsed: 557 ms
-[21:53:46] [Server thread/INFO]: [spark] Starting background profiler...
-[21:53:46] [Server thread/INFO]: Done preparing level "world" (20.849s)
-[21:53:46] [Server thread/INFO]: Running delayed init tasks
-[21:53:46] [Server thread/INFO]: Done (33.817s)! For help, type "help"
-[21:53:46] [Server thread/INFO]: *************************************************************************************
-[21:53:46] [Server thread/INFO]: This is the first time you're starting this server.
-[21:53:46] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
-[21:53:46] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
-[21:53:46] [Server thread/INFO]: *************************************************************************************
-[21:53:46] [Server thread/INFO]: Timings Reset
-[21:54:18] [User Authenticator #0/INFO]: UUID of player Termostato34 is a62bbb5f-22fb-364c-8ce6-21a51aa29739
-[21:54:20] [Server thread/INFO]: Termostato34 joined the game
-[21:54:20] [Server thread/INFO]: Termostato34[/127.0.204.211:58581] logged in with entity id 80 at ([world]178.5, 70.0, -55.5)
-[21:57:55] [Server thread/INFO]: Termostato34 has made the advancement [Stone Age]
-[21:58:53] [Server thread/INFO]: Termostato34 has made the advancement [Getting an Upgrade]
-[21:59:53] [Server thread/INFO]: The difficulty has been set to Hard
-[22:06:59] [Server thread/INFO]: Termostato34 was shot by Skeleton
-[22:07:08] [Server thread/INFO]: Termostato34 was shot by Skeleton
-[22:08:23] [Server thread/INFO]: Termostato34 lost connection: Disconnected
-[22:08:23] [Server thread/INFO]: Termostato34 left the game
-[22:49:34] [User Authenticator #1/INFO]: UUID of player Termostato34 is a62bbb5f-22fb-364c-8ce6-21a51aa29739
-[22:49:35] [Server thread/INFO]: Termostato34 joined the game
-[22:49:35] [Server thread/INFO]: Termostato34[/127.0.204.211:37345] logged in with entity id 2481 at ([world]170.95696201952214, 71.16610926093821, -60.520924428167376)
-[22:49:45] [Server thread/INFO]: Termostato34 lost connection: Disconnected
-[22:49:45] [Server thread/INFO]: Termostato34 left the game
-[22:51:15] [User Authenticator #2/INFO]: UUID of player Termostato34 is a62bbb5f-22fb-364c-8ce6-21a51aa29739
-[22:51:16] [Server thread/INFO]: Termostato34 joined the game
-[22:51:16] [Server thread/INFO]: Termostato34[/127.0.204.211:60303] logged in with entity id 2533 at ([world]171.8079626078328, 72.0, -75.34223221877735)
-[22:51:21] [Server thread/INFO]: Termostato34 lost connection: Disconnected
-[22:51:21] [Server thread/INFO]: Termostato34 left the game
+[23:24:15] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.5.0-1025-azure (amd64)
+[23:24:15] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-131-ver/1.21.1@84281ce (2024-10-31T17:43:44Z) for Minecraft 1.21.1
+[23:24:16] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[23:24:16] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[23:24:16] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - GWarp ([2.13.0.2]), SkinsRestorer (15.5.2), TabTPS (1.3.25)
+[23:24:20] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:24:22] [ServerMain/INFO]: Loaded 1290 recipes
+[23:24:22] [ServerMain/INFO]: Loaded 1399 advancements
+[23:24:22] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[23:24:22] [Server thread/INFO]: Loading properties
+[23:24:23] [Server thread/INFO]: This server is running Paper version 1.21.1-131-ver/1.21.1@84281ce (2024-10-31T17:43:44Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[23:24:23] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:24:23] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:24:23] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:24:24] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[23:24:24] [Server thread/INFO]: Default game type: SURVIVAL
+[23:24:24] [Server thread/INFO]: Generating keypair
+[23:24:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:24:24] [Server thread/INFO]: Using epoll channel type
+[23:24:24] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:24:24] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[23:24:25] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.2
+[23:24:25] [Server thread/INFO]: [GWarp] Loading server plugin GWarp v[2.13.0.2]
+[23:24:25] [Server thread/INFO]: [TabTPS] Loading server plugin TabTPS v1.3.25
+[23:24:25] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:24:25] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.2
+[23:24:25] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[23:24:26] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[23:24:26] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[23:24:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:24:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:24:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:24:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:24:26] [Server thread/INFO]: Preparing level "world"
+[23:24:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:24:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:24:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[23:24:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[23:24:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[23:24:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[23:24:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:24:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.2
+[23:24:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: ae257f6
+[23:24:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     A new version (15.5.3) is available! Downloading update...
+[23:24:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[23:24:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[23:24:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[23:24:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloading update...
+[23:24:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:24:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Downloaded update in 851ms
+[23:24:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] Update saved as SkinsRestorer (1).jar
+[23:24:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] [GitHubUpdate] The update will be loaded on the next server restart
+[23:24:27] [Server thread/INFO]: Time elapsed: 1011 ms
+[23:24:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:24:28] [Server thread/INFO]: Time elapsed: 555 ms
+[23:24:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:24:28] [Server thread/INFO]: Time elapsed: 71 ms
+[23:24:28] [Server thread/INFO]: [GWarp] Enabling GWarp v[2.13.0.2]
+[23:24:28] [Server thread/INFO]: [GWarp] The Plugin was successfully enabled.
+[23:24:28] [Server thread/INFO]: [TabTPS] Enabling TabTPS v1.3.25
+[23:24:29] [Server thread/INFO]: [spark] Starting background profiler...
+[23:24:29] [Server thread/INFO]: Done preparing level "world" (3.140s)
+[23:24:29] [Server thread/INFO]: Running delayed init tasks
+[23:24:29] [Server thread/INFO]: Done (14.844s)! For help, type "help"
+[23:24:29] [Server thread/INFO]: Timings Reset
+[23:24:29] [Craft Scheduler Thread - 3 - TabTPS/INFO]: [TabTPS] There is an update available for TabTPS!
+[23:24:29] [Craft Scheduler Thread - 3 - TabTPS/INFO]: [TabTPS] This server is running version v1.3.25, which is 1 versions outdated.
+[23:24:29] [Craft Scheduler Thread - 3 - TabTPS/INFO]: [TabTPS] Download the latest version, v1.3.26 from GitHub at the link below:
+[23:24:29] [Craft Scheduler Thread - 3 - TabTPS/INFO]: [TabTPS] https://github.com/jpenilla/TabTPS/releases/tag/v1.3.26
+[23:25:28] [User Authenticator #0/INFO]: UUID of player Termostato34 is a62bbb5f-22fb-364c-8ce6-21a51aa29739
+[23:25:29] [Server thread/INFO]: Termostato34 joined the game
+[23:25:30] [Server thread/INFO]: Termostato34[/127.0.204.211:47957] logged in with entity id 125 at ([world]331.8181262687807, 183.0, -86.65475796173594)
+[23:25:49] [Server thread/INFO]: Termostato34 issued server command: /ping
+[23:28:08] [Server thread/INFO]: Termostato34 issued server command: /ping
+[23:31:17] [User Authenticator #1/INFO]: UUID of player Hannak4 is 7ff1266f-3515-3654-a23a-3846c8eaf708
+[23:31:18] [Server thread/INFO]: Hannak4 joined the game
+[23:31:18] [Server thread/INFO]: Hannak4[/127.237.255.32:52971] logged in with entity id 350 at ([world]-90.39539136829005, 110.0, 139.4631702369828)
+[23:31:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Hannak4> helooooo
+[23:31:43] [Async Chat Thread - #0/INFO]: [Not Secure] <Termostato34> SEEEEEEHHH
+[23:32:01] [Async Chat Thread - #0/INFO]: [Not Secure] <Termostato34> bienvenida tonota
+[23:32:07] [Async Chat Thread - #0/INFO]: [Not Secure] <Hannak4> ohayoooo
+[23:32:16] [Async Chat Thread - #0/INFO]: [Not Secure] <Termostato34> me hace falta aun configurar unas cosas pero creo q va bien
+[23:32:18] [Server thread/INFO]: Termostato34 issued server command: /ping
+[23:32:22] [Server thread/INFO]: Termostato34 issued server command: /pingall
