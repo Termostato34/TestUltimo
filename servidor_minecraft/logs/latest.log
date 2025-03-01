@@ -178,3 +178,20 @@
 [02:45:00] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
 [02:46:06] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
 [02:46:15] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[02:46:34] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
+[02:46:34] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
+[02:48:32] [Server thread/INFO]: Termostato34 issued server command: /warp jungla
+[02:49:45] [Server thread/INFO]: Hannak4 issued server command: /warp pecera
+[02:50:20] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[02:52:05] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[02:52:05] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[02:53:12] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[02:53:15] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
+[02:54:40] [Server thread/INFO]: Hannak4 drowned while trying to escape Elder Guardian
+[02:54:54] [Server thread/INFO]: Hannak4 issued server command: /warp pecera
+[02:55:06] [Server thread/INFO]: Hannak4 issued server command: /warp casa
+[02:55:23] [Server thread/INFO]: Hannak4 issued server command: /warp pecera
+[02:55:39] [Server thread/INFO]: Termostato34 issued server command: /setwarp peces2
+[02:55:43] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
+[02:55:52] [Server thread/INFO]: Hannak4 was slain by Guardian
+[02:56:37] [Server thread/INFO]: Hannak4 issued server command: /tp t
