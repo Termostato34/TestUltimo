@@ -75,3 +75,7 @@
 [01:02:10] [Server thread/INFO]: Hannak4 issued server command: /warp casa
 [01:03:06] [Server thread/INFO]: Termostato34 issued server command: /warp casa
 [01:04:54] [Server thread/INFO]: Termostato34 issued server command: /warp avion
+[01:05:59] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[01:06:45] [Server thread/INFO]: Termostato34 issued server command: /warp jungla
+[01:06:57] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
+[01:06:57] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
