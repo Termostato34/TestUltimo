@@ -94,3 +94,20 @@
 [01:47:43] [Server thread/INFO]: [Termostato34: Set own game mode to Survival Mode]
 [01:52:25] [Server thread/ERROR]: Tried to load invalid item: 'Not a boolean: "false"; Not a boolean: "true" missed input: {"minecraft:custom_name":'{"text":"Bow Enchant (Lvl:1)","italic":"false","bold":"true","color":"white"}'}'
 [01:54:56] [Server thread/INFO]: Termostato34 issued server command: /setwarp castillo
+[02:02:30] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
+[02:02:30] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
+[02:02:46] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[02:02:46] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[02:02:54] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[02:02:54] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[02:03:06] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[02:03:06] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[02:03:17] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[02:03:17] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[02:03:30] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
+[02:03:30] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
+[02:03:46] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[02:03:46] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[02:04:50] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[02:05:05] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
+[02:05:05] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
