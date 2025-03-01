@@ -98,7 +98,7 @@ Warps:
       pitch: 5.0772753
       yaw: 175.24666
       world: world
-    visitors: 6
+    visitors: 7
   desierto:
     name: desierto
     owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
@@ -136,4 +136,4 @@ Warps:
       pitch: 34.25982
       yaw: 116.59193
       world: world
-    visitors: 3
+    visitors: 5
