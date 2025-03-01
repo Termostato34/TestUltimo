@@ -195,3 +195,36 @@
 [02:55:43] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
 [02:55:52] [Server thread/INFO]: Hannak4 was slain by Guardian
 [02:56:37] [Server thread/INFO]: Hannak4 issued server command: /tp t
+[02:56:44] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
+[02:56:44] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
+[02:57:19] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
+[02:57:32] [Server thread/INFO]: Termostato34 issued server command: /warp peces2
+[02:57:56] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
+[02:58:27] [Server thread/INFO]: Termostato34 issued server command: /warp peces2
+[02:58:39] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[02:58:42] [Server thread/INFO]: Hannak4 drowned while trying to escape Guardian
+[02:59:42] [Server thread/INFO]: Termostato34 issued server command: /warp nieve
+[03:00:24] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[03:00:24] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[03:01:27] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
+[03:01:27] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
+[03:02:29] [Server thread/INFO]: Termostato34 issued server command: /warp peces22
+[03:02:32] [Server thread/INFO]: Termostato34 issued server command: /warp peces2
+[03:02:49] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[03:02:54] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
+[03:02:54] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
+[03:03:12] [Async Chat Thread - #18/INFO]: [Not Secure] <Termostato34> ./warp peces2
+[03:03:45] [Server thread/INFO]: Termostato34 issued server command: /warp peces2
+[03:03:46] [Server thread/INFO]: Hannak4 issued server command: /warp pecera2
+[03:03:57] [Server thread/INFO]: Hannak4 issued server command: /warp peces2
+[03:03:57] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[03:04:11] [Server thread/INFO]: Termostato34 issued server command: /warp peces2
+[03:04:27] [Server thread/INFO]: Hannak4 was killed by Elder Guardian using magic
+[03:04:39] [Server thread/INFO]: Hannak4 issued server command: /warp peces2
+[03:04:52] [Server thread/INFO]: Hannak4 was slain by Elder Guardian
+[03:05:01] [Server thread/INFO]: Hannak4 issued server command: /warp peces2
+[03:05:10] [Server thread/INFO]: Hannak4 was slain by Elder Guardian
+[03:05:29] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[03:06:19] [Server thread/INFO]: Termostato34 issued server command: /warp peces2
+[03:06:29] [Server thread/INFO]: Hannak4 issued server command: /warp peces2
+[03:06:43] [Server thread/INFO]: Termostato34 issued server command: /warp casa
