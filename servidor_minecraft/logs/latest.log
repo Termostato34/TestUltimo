@@ -111,3 +111,11 @@
 [02:04:50] [Server thread/INFO]: Termostato34 issued server command: /warp casa
 [02:05:05] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
 [02:05:05] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
+[02:11:20] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
+[02:11:20] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
+[02:13:44] [Server thread/INFO]: Termostato34 issued server command: /warp desierto
+[02:13:51] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
+[02:13:51] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
+[02:14:28] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[02:14:30] [Async Chat Thread - #10/INFO]: [Not Secure] <Hannak4> no te escucho por la lluviaaaa
+[02:14:44] [Server thread/INFO]: Termostato34 issued server command: /warp desierto
