@@ -277,3 +277,10 @@
 [03:45:41] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
 [03:45:49] [Server thread/INFO]: Termostato34 issued server command: /warp casa
 [03:46:10] [Server thread/INFO]: Termostato34 issued server command: /warp peces2
+[03:54:41] [User Authenticator #2/INFO]: UUID of player Hannak4 is 7ff1266f-3515-3654-a23a-3846c8eaf708
+[03:54:42] [Server thread/INFO]: Hannak4 joined the game
+[03:54:42] [Server thread/INFO]: Hannak4[/127.237.255.32:47151] logged in with entity id 19974 at ([world]-93.83384412298993, 110.0, 144.54980606808738)
+[03:54:57] [Server thread/INFO]: Hannak4 issued server command: /warp pecera
+[03:55:38] [Server thread/INFO]: Hannak4 issued server command: /warp casa
+[03:56:02] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
+[03:56:02] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
