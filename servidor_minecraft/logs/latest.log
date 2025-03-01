@@ -88,3 +88,9 @@
 [01:41:10] [Server thread/INFO]: [Termostato34: Set own game mode to Creative Mode]
 [01:43:07] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
 [01:43:07] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
+[01:46:26] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[01:46:26] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[01:47:43] [Server thread/INFO]: Termostato34 issued server command: /gamemode survival
+[01:47:43] [Server thread/INFO]: [Termostato34: Set own game mode to Survival Mode]
+[01:52:25] [Server thread/ERROR]: Tried to load invalid item: 'Not a boolean: "false"; Not a boolean: "true" missed input: {"minecraft:custom_name":'{"text":"Bow Enchant (Lvl:1)","italic":"false","bold":"true","color":"white"}'}'
+[01:54:56] [Server thread/INFO]: Termostato34 issued server command: /setwarp castillo

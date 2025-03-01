@@ -112,3 +112,15 @@ Warps:
       yaw: 147.94992
       world: world
     visitors: 1
+  castillo:
+    name: castillo
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: 366.31007745820745
+      y: 60.0
+      z: 634.1216754282431
+      pitch: 25.55753
+      yaw: -13.579773
+      world: world
