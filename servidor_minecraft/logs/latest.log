@@ -89,3 +89,16 @@
 [23:53:35] [Server thread/INFO]: Termostato34 issued server command: /warps
 [23:53:49] [Server thread/INFO]: Termostato34 issued server command: /warp avion
 [23:53:55] [Server thread/INFO]: Termostato34 issued server command: /warp villa
+[23:55:18] [Async Chat Thread - #4/INFO]: [Not Secure] <Termostato34> ./warp warps
+[23:55:38] [Async Chat Thread - #4/INFO]: [Not Secure] <Hannak4> ./warpwarps
+[23:56:10] [Server thread/INFO]: Hannak4 issued server command: /warpwarps
+[23:56:14] [Server thread/INFO]: Termostato34 issued server command: /warp warps
+[23:56:32] [Server thread/INFO]: Hannak4 issued server command: /warp warps
+[23:57:48] [Server thread/INFO]: Hannak4 issued server command: /warp set casa
+[23:58:01] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[23:58:08] [Server thread/INFO]: Hannak4 issued server command: /warp casa
+[23:58:17] [Server thread/INFO]: Termostato34 issued server command: /warp warps
+[23:58:23] [Server thread/INFO]: Hannak4 issued server command: /warp warps
+[23:58:40] [Async Chat Thread - #6/INFO]: [Not Secure] <Termostato34> ./warp warps
+[23:58:53] [Server thread/INFO]: Hannak4 issued server command: /warp casa
+[23:59:06] [Server thread/INFO]: Hannak4 issued server command: /warp warps
