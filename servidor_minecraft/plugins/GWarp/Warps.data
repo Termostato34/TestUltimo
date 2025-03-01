@@ -98,7 +98,7 @@ Warps:
       pitch: 5.0772753
       yaw: 175.24666
       world: world
-    visitors: 8
+    visitors: 9
   desierto:
     name: desierto
     owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
@@ -150,3 +150,15 @@ Warps:
       yaw: 63.111633
       world: world
     visitors: 6
+  peces1:
+    name: peces1
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: -152.51249998807907
+      y: 153.0
+      z: -271.30000001192093
+      pitch: 31.73467
+      yaw: -119.61319
+      world: world
