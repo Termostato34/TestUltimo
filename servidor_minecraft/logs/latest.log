@@ -1,3 +1,9 @@
 [00:07:32] [Server thread/INFO]: Termostato34 issued server command: /warp avion
 [00:08:37] [Server thread/INFO]: Termostato34 issued server command: /warp casa
 [00:08:43] [Server thread/INFO]: Termostato34 issued server command: /warp villa
+[00:15:51] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[00:19:58] [Server thread/INFO]: Termostato34 issued server command: /give Termostato34 diamond_pickaxe[enchantments={levels:{efficiency:5,fortune:3,unbreaking:4}}]
+[00:19:58] [Server thread/INFO]: [Termostato34: Gave 1 [Diamond Pickaxe] to Termostato34]
+[00:20:38] [Server thread/INFO]: Hannak4 issued server command: /tp ~
+[00:20:50] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
+[00:20:50] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
