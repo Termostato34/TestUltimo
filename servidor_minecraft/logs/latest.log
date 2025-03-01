@@ -284,3 +284,9 @@
 [03:55:38] [Server thread/INFO]: Hannak4 issued server command: /warp casa
 [03:56:02] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
 [03:56:02] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
+[03:58:14] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
+[03:58:14] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
+[04:00:19] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[04:00:19] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[04:06:57] [Server thread/INFO]: Hannak4 drowned
+[04:07:07] [Server thread/INFO]: Hannak4 issued server command: /warp pecera
