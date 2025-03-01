@@ -124,3 +124,15 @@ Warps:
       pitch: 25.55753
       yaw: -13.579773
       world: world
+  pecera:
+    name: pecera
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: -119.06021185109223
+      y: 179.0
+      z: -271.00730666207596
+      pitch: 34.25982
+      yaw: 116.59193
+      world: world
