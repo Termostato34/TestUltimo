@@ -134,3 +134,28 @@
 [02:23:57] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
 [02:23:58] [Async Chat Thread - #14/INFO]: [Not Secure] <Termostato34> ./warp pecera
 [02:24:43] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
+[02:26:31] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
+[02:27:19] [Server thread/INFO]: Hannak4 issued server command: /tp Termostato34
+[02:27:19] [Server thread/INFO]: [Hannak4: Teleported Hannak4 to Termostato34]
+[02:27:30] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
+[02:27:52] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[02:27:52] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[02:28:25] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
+[02:28:58] [Server thread/INFO]: Hannak4 issued server command: /warp pecera
+[02:29:25] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
+[02:30:05] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
+[02:30:14] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[02:30:14] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[02:30:59] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
+[02:31:06] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[02:31:06] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[02:31:23] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[02:31:23] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[02:31:42] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
+[02:32:00] [Server thread/INFO]: Hannak4 issued server command: /warp pecera
+[02:32:33] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[02:33:02] [Server thread/INFO]: Hannak4 issued server command: /warp casa
+[02:34:25] [Server thread/INFO]: Hannak4 issued server command: /warp pecera
+[02:34:54] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
+[02:35:34] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[02:35:46] [Server thread/INFO]: Termostato34 issued server command: /warp pecera
