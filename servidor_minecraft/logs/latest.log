@@ -56,3 +56,22 @@
 [00:50:17] [Server thread/INFO]: [Termostato34: Gave 1 [Bow] to Termostato34]
 [00:53:06] [Server thread/INFO]: Termostato34 issued server command: /give Termostato34 minecraft:diamond_sword[enchantments={levels:{fire_aspect:3,sharpness:5,smite:4,sweeping_edge:3,unbreaking:4}}]
 [00:53:06] [Server thread/INFO]: [Termostato34: Gave 1 [Diamond Sword] to Termostato34]
+[00:56:27] [Server thread/INFO]: Termostato34 issued server command: /warp villa
+[00:57:24] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[00:57:24] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[00:58:17] [Server thread/INFO]: Termostato34 issued server command: /Warp casa
+[00:58:20] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[00:58:31] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[00:58:31] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[00:58:42] [Server thread/INFO]: Termostato34 issued server command: /home
+[00:58:49] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[00:59:15] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[00:59:15] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[00:59:31] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[00:59:52] [Server thread/INFO]: Termostato34 issued server command: /ping
+[00:59:54] [Server thread/INFO]: Termostato34 issued server command: /ping
+[00:59:56] [Server thread/INFO]: Termostato34 issued server command: /pingall
+[01:01:58] [Server thread/INFO]: Termostato34 issued server command: /warp nether
+[01:02:10] [Server thread/INFO]: Hannak4 issued server command: /warp casa
+[01:03:06] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[01:04:54] [Server thread/INFO]: Termostato34 issued server command: /warp avion
