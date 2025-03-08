@@ -101,7 +101,7 @@ Warps:
       pitch: 5.0772753
       yaw: 175.24666
       world: world
-    visitors: 18
+    visitors: 20
   desierto:
     name: desierto
     owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
@@ -225,3 +225,15 @@ Warps:
       pitch: 33.789867
       yaw: 7.533142
       world: world_the_end
+  bastiones:
+    name: bastiones
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: -77.19189246181675
+      y: 83.0
+      z: 1026.6918165273798
+      pitch: 29.63343
+      yaw: -2.013916
+      world: world_nether

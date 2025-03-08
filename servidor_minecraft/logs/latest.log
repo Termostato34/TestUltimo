@@ -106,3 +106,18 @@
 [01:55:00] [Server thread/INFO]: Hannak4 has made the advancement [Suit Up]
 [01:59:13] [Server thread/INFO]: Termostato34 has completed the challenge [Return to Sender]
 [02:03:41] [Server thread/INFO]: Termostato34 has made the advancement [Spooky Scary Skeleton]
+[02:08:50] [Server thread/INFO]: Hannak4 issued server command: /warp casa
+[02:11:40] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[02:12:52] [Server thread/INFO]: Termostato34 issued server command: /warp nether
+[02:17:15] [Server thread/INFO]: Termostato34 issued server command: /setwarp bastiones
+[02:17:18] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[02:17:18] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[02:17:31] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[02:17:31] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[02:17:52] [Server thread/INFO]: Termostato34 issued server command: /tp bastiones
+[02:17:57] [Server thread/INFO]: Termostato34 issued server command: /warp bastiones
+[02:19:20] [Server thread/INFO]: Hannak4 fell out of the world
+[02:24:14] [Server thread/INFO]: Hannak4 issued server command: /warp casa
+[02:25:56] [Server thread/INFO]: Hannak4 was slain by Zombie
+[02:27:17] [Server thread/INFO]: Termostato34 issued server command: /warp bastiones
+[02:27:33] [Server thread/INFO]: Hannak4 was blown up by Creeper
