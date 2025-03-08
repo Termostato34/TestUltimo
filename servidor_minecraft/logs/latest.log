@@ -93,3 +93,13 @@
 [01:33:02] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
 [01:33:38] [Server thread/INFO]: Termostato34 issued server command: /warp desierto
 [01:34:57] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[01:38:06] [Server thread/INFO]: Termostato34 issued server command: /pingall
+[01:41:11] [Server thread/INFO]: Termostato34 issued server command: /warp nether
+[01:41:39] [Server thread/INFO]: Termostato34 issued server command: /pingall
+[01:42:11] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[01:42:23] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[01:42:23] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[01:42:37] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[01:42:37] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[01:42:51] [Server thread/INFO]: Termostato34 issued server command: /warp nether
+[01:45:10] [Server thread/INFO]: Termostato34 issued server command: /pingall
