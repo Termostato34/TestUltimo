@@ -101,7 +101,7 @@ Warps:
       pitch: 5.0772753
       yaw: 175.24666
       world: world
-    visitors: 20
+    visitors: 21
   desierto:
     name: desierto
     owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
@@ -114,7 +114,7 @@ Warps:
       pitch: 18.18283
       yaw: 147.94992
       world: world
-    visitors: 1
+    visitors: 2
   castillo:
     name: castillo
     owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
