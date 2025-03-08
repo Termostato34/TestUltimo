@@ -25,6 +25,7 @@ Warps:
       pitch: 22.189638
       yaw: 45.46985
       world: world
+    visitors: 1
   nieve:
     name: nieve
     owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
@@ -101,7 +102,7 @@ Warps:
       pitch: 5.0772753
       yaw: 175.24666
       world: world
-    visitors: 25
+    visitors: 28
   desierto:
     name: desierto
     owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
