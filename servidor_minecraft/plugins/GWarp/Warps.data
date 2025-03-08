@@ -12,6 +12,7 @@ Warps:
       yaw: -89.789696
       world: world
     sound: ENTITY_ENDER_PEARL_THROW
+    visitors: 6
   villa:
     name: villa
     owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
@@ -36,6 +37,7 @@ Warps:
       pitch: 11.755307
       yaw: -84.082886
       world: world
+    visitors: 2
   jungla:
     name: jungla
     owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
@@ -60,6 +62,7 @@ Warps:
       pitch: 19.282608
       yaw: -13.916962
       world: world
+    visitors: 1
   cielo:
     name: cielo
     owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
@@ -98,7 +101,7 @@ Warps:
       pitch: 5.0772753
       yaw: 175.24666
       world: world
-    visitors: 10
+    visitors: 18
   desierto:
     name: desierto
     owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
@@ -162,3 +165,51 @@ Warps:
       pitch: 31.73467
       yaw: -119.61319
       world: world
+  fort:
+    name: fort
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: 109.69999998807907
+      y: 67.0
+      z: 684.3000000119209
+      pitch: 23.971527
+      yaw: 81.94678
+      world: world_nether
+  fortaleza:
+    name: fortaleza
+    owner: 7ff1266f-3515-3654-a23a-3846c8eaf708
+    ownername: Hannak4
+    count: true
+    loc:
+      x: 113.40605252448029
+      y: 64.0
+      z: 667.9786349572646
+      pitch: 57.150032
+      yaw: -156.90685
+      world: world_nether
+  end:
+    name: end
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: 12.107759118746502
+      y: 62.0
+      z: 10.051885076807757
+      pitch: 29.61919
+      yaw: -35.31192
+      world: world_the_end
+  endcity:
+    name: endcity
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: 547.064046163125
+      y: 58.0
+      z: 1624.7125113188335
+      pitch: 17.705456
+      yaw: 13.661133
+      world: world_the_end
