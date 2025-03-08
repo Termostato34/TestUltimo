@@ -82,3 +82,14 @@
 [01:26:00] [Server thread/INFO]: Termostato34 issued server command: /ping
 [01:26:02] [Server thread/INFO]: Termostato34 issued server command: /ping
 [01:26:04] [Server thread/INFO]: Termostato34 issued server command: /pingall
+[01:29:32] [Server thread/INFO]: Termostato34 issued server command: /pingall
+[01:32:09] [Server thread/INFO]: Termostato34 issued server command: /warp end2
+[01:32:14] [Server thread/INFO]: Termostato34 issued server command: /setwarp end2
+[01:32:19] [Server thread/INFO]: Termostato34 issued server command: /warp nether
+[01:32:26] [Server thread/INFO]: Termostato34 issued server command: /pingall
+[01:32:32] [Server thread/INFO]: Termostato34 issued server command: /pingall
+[01:32:41] [Server thread/INFO]: Termostato34 issued server command: /warp casa
+[01:33:02] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[01:33:02] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[01:33:38] [Server thread/INFO]: Termostato34 issued server command: /warp desierto
+[01:34:57] [Server thread/INFO]: Termostato34 issued server command: /warp casa

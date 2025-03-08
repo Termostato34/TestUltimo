@@ -213,3 +213,15 @@ Warps:
       pitch: 17.705456
       yaw: 13.661133
       world: world_the_end
+  end2:
+    name: end2
+    owner: a62bbb5f-22fb-364c-8ce6-21a51aa29739
+    ownername: Termostato34
+    count: true
+    loc:
+      x: 1456.2274259946712
+      y: 57.0
+      z: 6903.95573013528
+      pitch: 33.789867
+      yaw: 7.533142
+      world: world_the_end
