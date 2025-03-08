@@ -192,3 +192,7 @@
 [03:28:55] [Server thread/INFO]: Termostato34 issued server command: /pingall
 [03:33:17] [Server thread/INFO]: Hannak4 issued server command: /warp casa
 [03:40:04] [Server thread/INFO]: Termostato34 issued server command: /pingall
+[03:54:45] [Server thread/INFO]: Termostato34 issued server command: /tp Hannak4
+[03:54:45] [Server thread/INFO]: [Termostato34: Teleported Termostato34 to Hannak4]
+[03:57:23] [Server thread/INFO]: Termostato34 issued server command: /warp brujas
+[03:57:56] [Server thread/INFO]: Termostato34 issued server command: /warp brujas
